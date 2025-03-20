@@ -53,3 +53,4 @@ portfolio-website/
 
 ## Reference
 This project was inspired by and uses some design elements from the Responsive Web Design Website by Lime-Light-TechLead. Special thanks to them for providing a great reference!
+Check out their project here: [Lime-Light-TechLead on GitHub](https://github.com/Lime-Light-TechLead/Responsive-web-design-Website).
